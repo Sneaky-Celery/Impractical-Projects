@@ -1,10 +1,11 @@
 # Author: Sneaky Celery
+# Inspired by: Lee Vaughan
 
 '''This program contains interesting ways to interact with strings and completes all of the
-   challenges introduced in IMPRACTICAL PYTHON PROJECTS, Chapter 1. I recommend researching API
-   key management for yourself. I chose to use a free version from DeepL with specific
-   limitations. You could create a .env file and use 'dotenv' from the Python libraries or use a
-   cloud-based API key manager.'''
+   challenges introduced in IMPRACTICAL PYTHON PROJECTS, Chapter 1 (the ones where no solution
+   was provided). I recommend researching API key management for yourself. I chose to use a free
+   version from DeepL with specific limitations. You could create a .env file and use 'dotenv'
+   from the Python libraries or use a cloud-based API key manager.'''
 
 import random
 import pprint
